@@ -283,4 +283,3 @@ Aho, A. V., Lam, M. S., Sethi, R., & Ullman, J. D. (2006). *Compilers: Principle
 
 Cooper, K. D., & Torczon, L. (2011). *Engineering a Compiler*. Morgan Kaufmann. 
 21
-# compiler-optimization-techniques
